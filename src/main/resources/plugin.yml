@@ -1,0 +1,6 @@
+name: Minenote
+version: '${version}'
+main: io.github.dolphin2410.minenote.MineNotePlugin
+api-version: 1.18
+authors: [ dolphin2410 ]
+description: Minecraft Noteblock Plugin
