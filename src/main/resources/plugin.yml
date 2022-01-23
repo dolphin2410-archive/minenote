@@ -1,6 +1,9 @@
 name: Minenote
-version: '${version}'
+version: 1.0.0
 main: io.github.dolphin2410.minenote.MineNotePlugin
 api-version: 1.18
 authors: [ dolphin2410 ]
 description: Minecraft Noteblock Plugin
+libraries:
+  - io.github.monun:kommand:2.8.1
+  - org.jetbrains.kotlin:kotlin-stdlib:1.6.10
